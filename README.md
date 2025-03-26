@@ -5,7 +5,7 @@
 
 Personal Website: 
 
-[Bio here]
+Greetings, weary traveler, and welcome to my GitHub!  I am a Ph.D. student at the University of Pennsylvania with a keen interest in identifying and evaluating policies that support students’ transition from high school to college.  Throughout my time as a student and tutor, I have developed a passion for creating and sharing open-access educational materials that have helped me survive my academic and professional journeys.  When I'm not running regressions, you'll most likely find me running outside!  I regularly compete in 50km, 100km, and 100 mile ultramarathons.
 
 <small>
 
